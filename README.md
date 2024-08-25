@@ -133,6 +133,7 @@
   <a href="https://www.linkedin.com/in/huy-quang-74b97626b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
 </p>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-202.gif">
+<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-202.gif" width = 500 align="center" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
