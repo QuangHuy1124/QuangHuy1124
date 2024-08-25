@@ -134,6 +134,6 @@
 </p>
 <br>
 
-<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-202.1000 width = 800 align="center" />
+<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-202.1000 width = 500 align="rightright" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
