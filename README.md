@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div style="align:left;">
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200 align="left"/>
+<img alt="GIF" src="https://th.bing.com/th/id/R.ea9df861113fecec5bb17bf1faa0124e?rik=lytE41eWcgxAxA&pid=ImgRaw&r=0" width = 200 align="left"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Quang+Huy;Data+Scientist;Contact:+vuquanghuy112004@gmail.com....." />
 </div>
  <p>- <i>I am currently as a Data Science student, with the goal of developing my skills to become a proficient Data Scientits developer. With a background in Software Engineering and a passion for data, I am committed to data analysis, providing high-quality insights, and contributing effectively in the workplace.
@@ -104,9 +104,13 @@
 </td>
     <td>
   
-## 📄📜 Stats
+## 📄📜 
 
 <img style="width:26rem; height:auto" src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif"/>
+
+<img style="width:26rem; height:auto" src="https://th.bing.com/th/id/OIP.Y3rPdeMEsi2R57G2V9gY2QHaFw?rs=1&pid=ImgDetMain"/>
+
+<img style="width:26rem; height:auto" src="https://th.bing.com/th/id/OIP.Y3rPdeMEsi2R57G2V9gY2QHaFw?rs=1&pid=ImgDetMain"/>
 
 <p align="center">
 <b> Thanks for visiting :heart: </b>
@@ -126,3 +130,5 @@
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-202.gif">
