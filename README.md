@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div style="align:left;">
-<img alt="GIF" src="https://th.bing.com/th/id/R.ea9df861113fecec5bb17bf1faa0124e?rik=lytE41eWcgxAxA&pid=ImgRaw&r=0" width = 600 align="left"/>
+<img alt="GIF" src="https://th.bing.com/th/id/R.ea9df861113fecec5bb17bf1faa0124e?rik=lytE41eWcgxAxA&pid=ImgRaw&r=0" width = 500 align="left"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Quang+Huy;Data+Scientist;Contact:+vuquanghuy112004@gmail.com....." />
 </div>
  <p>- <i>I am currently as a Data Science student, with the goal of developing my skills to become a proficient Data Scientits developer. With a background in Software Engineering and a passion for data, I am committed to data analysis, providing high-quality insights, and contributing effectively in the workplace.
